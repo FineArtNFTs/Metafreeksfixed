@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x14b3B30A01f5ebdD90b51c4e7285525B1f5224Fa",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MetaFreeksNFTs",
+  "SYMBOL": "MF",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 7000000000000000000,
+  "DISPLAY_COST": 7,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://https://opensea.io/collection/metafreeks",
+  "SHOW_BACKGROUND": true
+}
